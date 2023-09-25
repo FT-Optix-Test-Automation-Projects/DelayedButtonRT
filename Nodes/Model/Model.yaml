@@ -1,0 +1,13 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: mouse_down
+  Id: g=e5395ea86c4a83338ea1adddec6dda36
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: mouse_long_press
+  Id: g=2696c92f8721b136ef31f142b02ed543
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
