@@ -649,7 +649,7 @@ Children:
       - Name: Interactive
         Type: BaseDataVariableType
         DataType: Boolean
-        Value: true
+        Value: false
     - Name: LegendVisible
       Type: BaseDataVariableType
       DataType: Boolean
